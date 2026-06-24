@@ -1,0 +1,35 @@
+name: Track Participants
+
+on:
+schedule:
+- cron: "0 * * * *"
+workflow_dispatch:
+
+permissions:
+contents: write
+
+jobs:
+track:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - uses: actions/checkout@v4
+
+  - name: Download page
+    run: |
+      curl -L https://peoplefestival.berlin/participants \
+        -o participants.html
+
+  - name: Commit changes
+    run: |
+      git config user.name "tracker-bot"
+      git config user.email "tracker@example.com"
+
+      git add participants.html
+
+      git diff --staged --quiet || (
+        git commit -m "Update $(date -u '+%Y-%m-%d %H:%M UTC')"
+        git push
+      )
+```
