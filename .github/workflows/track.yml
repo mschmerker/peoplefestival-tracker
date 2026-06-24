@@ -1,29 +1,48 @@
-name: Track Participants
+name: Track PEOPLE Festival Participants
+
 on:
-schedule:
-- cron: "0 * * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
 permissions:
-contents: write
+  contents: write
+  issues: write
+
 jobs:
-track:
-runs-on: ubuntu-latest
-steps:
-  - uses: actions/checkout@v4
+  track:
+    runs-on: ubuntu-latest
 
-  - name: Download page
-    run: |
-      curl -L https://peoplefestival.berlin/participants \
-        -o participants.html
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  - name: Commit changes
-    run: |
-      git config user.name "tracker-bot"
-      git config user.email "tracker@example.com"
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-      git add participants.html
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
-      git diff --staged --quiet || (
-        git commit -m "Update $(date -u '+%Y-%m-%d %H:%M UTC')"
-        git push
-      )
+      - name: Run tracker
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python scraper.py
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/participants.json
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update participants snapshot"
+            git push
+          fi
