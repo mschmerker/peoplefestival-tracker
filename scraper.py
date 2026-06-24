@@ -83,7 +83,7 @@ def main():
     else:
         print("No new participants found.")
 
-    updated = {**previous, **{name: last_run[:10] for name in new_people}}
+    updated = {**previous, **{name: last_run for name in new_people}}
     save_snapshot(updated, last_run)
 
 
