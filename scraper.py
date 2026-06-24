@@ -14,17 +14,13 @@ SNAPSHOT_FILE = Path("data/participants.json")
 def extract_participants():
     response = requests.get(URL, timeout=30)
     response.raise_for_status()
-
     soup = BeautifulSoup(response.text, "html.parser")
 
     participants = set()
 
-    # Try common patterns: links or list items
     for tag in soup.find_all(["li", "a", "div"]):
         text = tag.get_text(strip=True)
-
-        # filter obvious junk
-        if 2 < len(text) < 80:
+        if text.startswith("+") and len(text) < 80:
             participants.add(text)
 
     return sorted(participants)
