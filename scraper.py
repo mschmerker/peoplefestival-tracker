@@ -12,30 +12,20 @@ SNAPSHOT_FILE = Path("data/participants.json")
 
 
 def extract_participants():
-    response = requests.get(
-        URL,
-        timeout=30,
-        headers={
-            "User-Agent": "Mozilla/5.0 GitHub Action Tracker"
-        },
-    )
-
+    response = requests.get(URL, timeout=30)
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    text = soup.get_text("\n")
-
     participants = set()
 
-    for line in text.splitlines():
-        line = line.strip()
+    # Try common patterns: links or list items
+    for tag in soup.find_all(["li", "a", "div"]):
+        text = tag.get_text(strip=True)
 
-        if line.startswith("+"):
-            name = re.sub(r"^\+\s*", "", line).strip()
-
-            if len(name) > 1:
-                participants.add(name)
+        # filter obvious junk
+        if 2 < len(text) < 80:
+            participants.add(text)
 
     return sorted(participants)
 
