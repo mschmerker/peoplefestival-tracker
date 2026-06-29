@@ -30,10 +30,11 @@ def load_previous():
     return json.loads(SNAPSHOT_FILE.read_text())
 
 
-def save_snapshot(data, last_run):
+def save_snapshot(data, last_run, active_count):
     SNAPSHOT_FILE.parent.mkdir(exist_ok=True)
     artists = {k: v for k, v in data.items() if not k.startswith("_")}
     sorted_data = dict(sorted(artists.items(), key=lambda x: (x[1]["first_seen"], x[0])))
+    sorted_data["_active_count"] = active_count
     sorted_data["_last_run"] = last_run
     SNAPSHOT_FILE.write_text(json.dumps(sorted_data, indent=2, ensure_ascii=False))
 
@@ -109,7 +110,7 @@ def main():
     for name in removed_people:
         updated[name]["removed"] = last_run
 
-    save_snapshot(updated, last_run)
+    save_snapshot(updated, last_run, len(current))
 
 
 if __name__ == "__main__":
