@@ -81,12 +81,14 @@ def main():
     previous = load_previous()
 
     known = {k: v for k, v in previous.items() if not k.startswith("_")}
+    active_known = {k for k, v in known.items() if v["removed"] is None}
 
-    new_people = sorted(current - set(known.keys()))
-    removed_people = sorted(set(known.keys()) - current)
+    new_people = sorted(current - active_known)
+    removed_people = sorted(active_known - current)
 
     print(f"Previously known: {len(known)}")
     print(f"Currently on site: {len(current)}")
+    print(f"Active on site right now: {len(current)}")
 
     if new_people:
         print("New participants:")
@@ -103,7 +105,6 @@ def main():
     else:
         print("No changes found.")
 
-    # Keep all artists, mark removed ones
     updated = dict(known)
     for name in new_people:
         updated[name] = {"first_seen": last_run, "removed": None}
