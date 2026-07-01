@@ -429,7 +429,7 @@
   },
   "+Owen Pallett": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-01 14:02 MEST"
   },
   "+Patrick Watson": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -575,6 +575,10 @@
     "first_seen": "2026-06-29 14:08 MEST",
     "removed": null
   },
+  "+David Kitt": {
+    "first_seen": "2026-07-01 14:02 MEST",
+    "removed": null
+  },
   "_active_count": 144,
-  "_last_run": "2026-07-01 11:00 MEST"
+  "_last_run": "2026-07-01 14:02 MEST"
 }
