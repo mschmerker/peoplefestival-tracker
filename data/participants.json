@@ -513,7 +513,7 @@
   },
   "+Sons of Mr Green Genes": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-02 10:39 MEST"
   },
   "+Sylvain Rabourdin": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -595,6 +595,6 @@
     "first_seen": "2026-07-01 17:04 MEST",
     "removed": null
   },
-  "_active_count": 148,
-  "_last_run": "2026-07-02 07:59 MEST"
+  "_active_count": 147,
+  "_last_run": "2026-07-02 10:39 MEST"
 }
