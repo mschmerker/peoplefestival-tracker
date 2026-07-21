@@ -389,7 +389,7 @@
   },
   "+Markus Sieber": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-21 14:53 MEST"
   },
   "+Mary Hickson": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -565,7 +565,7 @@
   },
   "+Yoann Lemoine": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-21 14:53 MEST"
   },
   "+Zach Condon": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -647,6 +647,26 @@
     "first_seen": "2026-07-19 16:41 MEST",
     "removed": null
   },
-  "_active_count": 153,
-  "_last_run": "2026-07-21 12:17 MEST"
+  "+AUKAI": {
+    "first_seen": "2026-07-21 14:53 MEST",
+    "removed": null
+  },
+  "+Jake Clemons": {
+    "first_seen": "2026-07-21 14:53 MEST",
+    "removed": null
+  },
+  "+Markus Nikolaus": {
+    "first_seen": "2026-07-21 14:53 MEST",
+    "removed": null
+  },
+  "+SOAK": {
+    "first_seen": "2026-07-21 14:53 MEST",
+    "removed": null
+  },
+  "+WOODKID": {
+    "first_seen": "2026-07-21 14:53 MEST",
+    "removed": null
+  },
+  "_active_count": 156,
+  "_last_run": "2026-07-21 14:53 MEST"
 }
