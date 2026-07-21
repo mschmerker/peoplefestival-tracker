@@ -141,7 +141,7 @@
   },
   "+Charlotte Maclet": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-21 10:12 MEST"
   },
   "+Chris Deyo Braun": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -169,7 +169,7 @@
   },
   "+Céline Tison": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-21 10:12 MEST"
   },
   "+Dane Edwards": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -329,7 +329,7 @@
   },
   "+Juliette Salmona": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-21 10:12 MEST"
   },
   "+Kristín Anna Valtýsdóttir": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -353,7 +353,7 @@
   },
   "+Leslie Boulin Raulet": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-21 10:12 MEST"
   },
   "+Li-Chin Li": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -647,6 +647,6 @@
     "first_seen": "2026-07-19 16:41 MEST",
     "removed": null
   },
-  "_active_count": 157,
-  "_last_run": "2026-07-21 07:28 MEST"
+  "_active_count": 153,
+  "_last_run": "2026-07-21 10:12 MEST"
 }
