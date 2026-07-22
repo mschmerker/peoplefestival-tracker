@@ -249,7 +249,7 @@
   },
   "+Gugulethu Duma": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-07-22 12:19 MEST"
   },
   "+Gyða Valtýsdóttir": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -667,6 +667,6 @@
     "first_seen": "2026-07-21 14:53 MEST",
     "removed": null
   },
-  "_active_count": 156,
-  "_last_run": "2026-07-22 10:11 MEST"
+  "_active_count": 155,
+  "_last_run": "2026-07-22 12:19 MEST"
 }
