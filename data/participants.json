@@ -677,7 +677,7 @@
   },
   "+Justin Vernon": {
     "first_seen": "2026-07-29 10:26 MEST",
-    "removed": null
+    "removed": "2026-07-30 16:25 MEST"
   },
   "+POMME": {
     "first_seen": "2026-07-29 10:26 MEST",
@@ -691,6 +691,6 @@
     "first_seen": "2026-07-30 10:09 MEST",
     "removed": null
   },
-  "_active_count": 161,
-  "_last_run": "2026-07-30 14:59 MEST"
+  "_active_count": 160,
+  "_last_run": "2026-07-30 16:25 MEST"
 }
