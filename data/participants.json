@@ -323,10 +323,6 @@
     "first_seen": "2026-06-29 14:08 MEST",
     "removed": null
   },
-  "+Julian Herreros": {
-    "first_seen": "2026-06-29 14:08 MEST",
-    "removed": "2026-07-29 10:26 MEST"
-  },
   "+Juliette Salmona": {
     "first_seen": "2026-06-29 14:08 MEST",
     "removed": "2026-07-21 10:12 MEST"
@@ -687,6 +683,14 @@
     "first_seen": "2026-07-29 10:26 MEST",
     "removed": null
   },
-  "_active_count": 159,
-  "_last_run": "2026-07-30 07:25 MEST"
+  "+Julian Herreros": {
+    "first_seen": "2026-07-30 10:09 MEST",
+    "removed": null
+  },
+  "+Liam Mour": {
+    "first_seen": "2026-07-30 10:09 MEST",
+    "removed": null
+  },
+  "_active_count": 161,
+  "_last_run": "2026-07-30 10:09 MEST"
 }
