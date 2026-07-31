@@ -649,7 +649,7 @@
   },
   "+Jake Clemons": {
     "first_seen": "2026-07-21 14:53 MEST",
-    "removed": null
+    "removed": "2026-07-31 11:15 MEST"
   },
   "+Markus Nikolaus": {
     "first_seen": "2026-07-21 14:53 MEST",
@@ -691,6 +691,6 @@
     "first_seen": "2026-07-30 10:09 MEST",
     "removed": null
   },
-  "_active_count": 160,
-  "_last_run": "2026-07-31 08:29 MEST"
+  "_active_count": 159,
+  "_last_run": "2026-07-31 11:15 MEST"
 }
