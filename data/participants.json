@@ -689,8 +689,16 @@
   },
   "+Liam Mour": {
     "first_seen": "2026-07-30 10:09 MEST",
+    "removed": "2026-08-01 12:51 MEST"
+  },
+  "+Mike Haldeman": {
+    "first_seen": "2026-08-01 12:51 MEST",
     "removed": null
   },
-  "_active_count": 159,
-  "_last_run": "2026-08-01 11:11 MEST"
+  "+Pieta brown": {
+    "first_seen": "2026-08-01 12:51 MEST",
+    "removed": null
+  },
+  "_active_count": 160,
+  "_last_run": "2026-08-01 12:51 MEST"
 }
