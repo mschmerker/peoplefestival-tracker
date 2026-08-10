@@ -687,10 +687,6 @@
     "first_seen": "2026-07-30 10:09 MEST",
     "removed": null
   },
-  "+Liam Mour": {
-    "first_seen": "2026-07-30 10:09 MEST",
-    "removed": "2026-08-01 12:51 MEST"
-  },
   "+Mike Haldeman": {
     "first_seen": "2026-08-01 12:51 MEST",
     "removed": null
@@ -729,12 +725,24 @@
   },
   "+Philippa Neels": {
     "first_seen": "2026-08-07 08:04 MEST",
-    "removed": null
+    "removed": "2026-08-10 10:54 MEST"
   },
   "+TOBIAS PREISIG": {
     "first_seen": "2026-08-07 08:04 MEST",
     "removed": null
   },
-  "_active_count": 169,
-  "_last_run": "2026-08-10 09:04 MEST"
+  "+Liam Mour": {
+    "first_seen": "2026-08-10 10:54 MEST",
+    "removed": null
+  },
+  "+MAX WHITCHER": {
+    "first_seen": "2026-08-10 10:54 MEST",
+    "removed": null
+  },
+  "+Marena Whitcher": {
+    "first_seen": "2026-08-10 10:54 MEST",
+    "removed": null
+  },
+  "_active_count": 171,
+  "_last_run": "2026-08-10 10:54 MEST"
 }
