@@ -9,7 +9,7 @@
   },
   "+Adrien Utley": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-08-10 14:10 MEST"
   },
   "+Ahmed Gallab": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -743,6 +743,10 @@
     "first_seen": "2026-08-10 10:54 MEST",
     "removed": null
   },
+  "+Adrian Utley": {
+    "first_seen": "2026-08-10 14:10 MEST",
+    "removed": null
+  },
   "_active_count": 171,
-  "_last_run": "2026-08-10 12:39 MEST"
+  "_last_run": "2026-08-10 14:10 MEST"
 }
