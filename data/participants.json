@@ -417,7 +417,7 @@
   },
   "+Napolean Maddox": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-08-11 11:35 MEST"
   },
   "+Nick Zinner": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -755,6 +755,10 @@
     "first_seen": "2026-08-11 08:01 MEST",
     "removed": null
   },
+  "+Napoleon Maddox": {
+    "first_seen": "2026-08-11 11:35 MEST",
+    "removed": null
+  },
   "_active_count": 173,
-  "_last_run": "2026-08-11 10:39 MEST"
+  "_last_run": "2026-08-11 11:35 MEST"
 }
