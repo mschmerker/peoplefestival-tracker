@@ -769,7 +769,7 @@
   },
   "+Jakob Stenberg": {
     "first_seen": "2026-08-20 08:22 MEST",
-    "removed": null
+    "removed": "2026-08-21 09:23 MEST"
   },
   "+Molly Noon": {
     "first_seen": "2026-08-20 08:22 MEST",
@@ -779,6 +779,14 @@
     "first_seen": "2026-08-20 08:22 MEST",
     "removed": null
   },
-  "_active_count": 176,
-  "_last_run": "2026-08-21 08:24 MEST"
+  "+Kayva van Gangelen": {
+    "first_seen": "2026-08-21 09:23 MEST",
+    "removed": null
+  },
+  "+Maaike van der Linde": {
+    "first_seen": "2026-08-21 09:23 MEST",
+    "removed": null
+  },
+  "_active_count": 177,
+  "_last_run": "2026-08-21 09:23 MEST"
 }
