@@ -165,7 +165,7 @@
   },
   "+Colin Stetson": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-08-27 23:18 MEST"
   },
   "+Céline Tison": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -361,7 +361,7 @@
   },
   "+Lisa Hannigan": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-08-27 23:18 MEST"
   },
   "+Lucinda Chua": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -370,10 +370,6 @@
   "+Mads Brauer": {
     "first_seen": "2026-06-29 14:08 MEST",
     "removed": null
-  },
-  "+Mahito Gezan": {
-    "first_seen": "2026-06-29 14:08 MEST",
-    "removed": "2026-07-10 08:57 MEST"
   },
   "+Makaya Maccraven": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -753,7 +749,7 @@
   },
   "+Napoleon Maddox": {
     "first_seen": "2026-08-11 11:35 MEST",
-    "removed": null
+    "removed": "2026-08-27 23:18 MEST"
   },
   "+PEOPLE Ensemble": {
     "first_seen": "2026-08-11 15:46 MEST",
@@ -791,6 +787,18 @@
     "first_seen": "2026-08-24 12:21 MEST",
     "removed": null
   },
+  "+Ma": {
+    "first_seen": "2026-08-27 23:18 MEST",
+    "removed": null
+  },
+  "+Mahito Gezan": {
+    "first_seen": "2026-08-27 23:18 MEST",
+    "removed": null
+  },
+  "+Taishi Nandi": {
+    "first_seen": "2026-08-27 23:18 MEST",
+    "removed": null
+  },
   "_active_count": 177,
-  "_last_run": "2026-08-27 13:14 MEST"
+  "_last_run": "2026-08-27 23:18 MEST"
 }
