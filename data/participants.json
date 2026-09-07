@@ -117,7 +117,7 @@
   },
   "+Bonaparte": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-09-07 10:54 MEST"
   },
   "+Brad Barr": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -261,7 +261,7 @@
   },
   "+Helado Negro": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-09-07 10:54 MEST"
   },
   "+Helen Murray": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -365,7 +365,7 @@
   },
   "+Lucinda Chua": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-09-07 10:54 MEST"
   },
   "+Mads Brauer": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -497,7 +497,7 @@
   },
   "+Simrit Kaur": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-09-07 10:54 MEST"
   },
   "+Soema Montenegro": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -813,7 +813,7 @@
   },
   "+Julien Chouch": {
     "first_seen": "2026-08-31 07:47 MEST",
-    "removed": null
+    "removed": "2026-09-07 10:54 MEST"
   },
   "+Kate Ellis": {
     "first_seen": "2026-08-31 07:47 MEST",
@@ -843,6 +843,10 @@
     "first_seen": "2026-09-03 10:15 MEST",
     "removed": null
   },
-  "_active_count": 187,
-  "_last_run": "2026-09-07 05:22 MEST"
+  "+Julien Chaillou": {
+    "first_seen": "2026-09-07 10:54 MEST",
+    "removed": null
+  },
+  "_active_count": 183,
+  "_last_run": "2026-09-07 10:54 MEST"
 }
