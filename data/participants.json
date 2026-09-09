@@ -853,7 +853,7 @@
   },
   "+Jean-Louise": {
     "first_seen": "2026-09-08 11:50 MEST",
-    "removed": null
+    "removed": "2026-09-09 14:51 MEST"
   },
   "+Michele I. Arazi": {
     "first_seen": "2026-09-08 11:50 MEST",
@@ -867,6 +867,14 @@
     "first_seen": "2026-09-08 11:50 MEST",
     "removed": null
   },
-  "_active_count": 188,
-  "_last_run": "2026-09-09 10:15 MEST"
+  "+Jean-Louise Parker": {
+    "first_seen": "2026-09-09 14:51 MEST",
+    "removed": null
+  },
+  "+Urbiks": {
+    "first_seen": "2026-09-09 14:51 MEST",
+    "removed": null
+  },
+  "_active_count": 189,
+  "_last_run": "2026-09-09 14:51 MEST"
 }
