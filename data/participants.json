@@ -793,7 +793,7 @@
   },
   "+Mahito Gezan": {
     "first_seen": "2026-08-27 23:18 MEST",
-    "removed": null
+    "removed": "2026-09-14 15:19 MEST"
   },
   "+Taishi Nandi": {
     "first_seen": "2026-08-27 23:18 MEST",
@@ -887,6 +887,18 @@
     "first_seen": "2026-09-11 15:23 MEST",
     "removed": null
   },
-  "_active_count": 192,
-  "_last_run": "2026-09-14 08:11 MEST"
+  "+Freddie Dickson": {
+    "first_seen": "2026-09-14 15:19 MEST",
+    "removed": null
+  },
+  "+Giulia Frattini": {
+    "first_seen": "2026-09-14 15:19 MEST",
+    "removed": null
+  },
+  "+Maarten Vos": {
+    "first_seen": "2026-09-14 15:19 MEST",
+    "removed": null
+  },
+  "_active_count": 194,
+  "_last_run": "2026-09-14 15:19 MEST"
 }
