@@ -13,7 +13,7 @@
   },
   "+Ahmed Gallab": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-09-17 17:47 MEST"
   },
   "+Aine Delaney": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -333,7 +333,7 @@
   },
   "+Kurt Wagner": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-09-17 17:47 MEST"
   },
   "+La Force": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -345,7 +345,7 @@
   },
   "+Laurel Sprengelmeyer": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-09-17 17:47 MEST"
   },
   "+Leslie Boulin Raulet": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -597,7 +597,7 @@
   },
   "+Severin Kantereit": {
     "first_seen": "2026-07-03 10:24 MEST",
-    "removed": null
+    "removed": "2026-09-17 17:47 MEST"
   },
   "+Leif Vollebekk": {
     "first_seen": "2026-07-04 21:45 MEST",
@@ -689,7 +689,7 @@
   },
   "+BJ Burton": {
     "first_seen": "2026-08-03 12:16 MEST",
-    "removed": null
+    "removed": "2026-09-17 17:47 MEST"
   },
   "+Franka Marlene Foth": {
     "first_seen": "2026-08-03 15:35 MEST",
@@ -697,7 +697,7 @@
   },
   "+Lea-Marie Becker": {
     "first_seen": "2026-08-03 15:35 MEST",
-    "removed": null
+    "removed": "2026-09-17 17:47 MEST"
   },
   "+Zaho de Sagazan": {
     "first_seen": "2026-08-05 10:21 MEST",
@@ -903,6 +903,22 @@
     "first_seen": "2026-09-17 13:51 MEST",
     "removed": null
   },
-  "_active_count": 194,
-  "_last_run": "2026-09-17 13:51 MEST"
+  "+LEA": {
+    "first_seen": "2026-09-17 17:47 MEST",
+    "removed": null
+  },
+  "+Lambchop": {
+    "first_seen": "2026-09-17 17:47 MEST",
+    "removed": null
+  },
+  "+Little Scream": {
+    "first_seen": "2026-09-17 17:47 MEST",
+    "removed": null
+  },
+  "+Sinkane": {
+    "first_seen": "2026-09-17 17:47 MEST",
+    "removed": null
+  },
+  "_active_count": 192,
+  "_last_run": "2026-09-17 17:47 MEST"
 }
