@@ -825,7 +825,7 @@
   },
   "+Miss Kenishi": {
     "first_seen": "2026-08-31 07:47 MEST",
-    "removed": null
+    "removed": "2026-09-21 15:24 MEST"
   },
   "+Beatrice Graf": {
     "first_seen": "2026-08-31 15:35 MEST",
@@ -919,6 +919,26 @@
     "first_seen": "2026-09-17 17:47 MEST",
     "removed": null
   },
-  "_active_count": 192,
-  "_last_run": "2026-09-21 08:17 MEST"
+  "+Arturia": {
+    "first_seen": "2026-09-21 15:24 MEST",
+    "removed": null
+  },
+  "+Hedd Audio": {
+    "first_seen": "2026-09-21 15:24 MEST",
+    "removed": null
+  },
+  "+KMR Audio": {
+    "first_seen": "2026-09-21 15:24 MEST",
+    "removed": null
+  },
+  "+Katrin Hahner": {
+    "first_seen": "2026-09-21 15:24 MEST",
+    "removed": null
+  },
+  "+Neumann": {
+    "first_seen": "2026-09-21 15:24 MEST",
+    "removed": null
+  },
+  "_active_count": 196,
+  "_last_run": "2026-09-21 15:24 MEST"
 }
