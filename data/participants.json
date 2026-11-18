@@ -701,7 +701,7 @@
   },
   "+Zaho de Sagazan": {
     "first_seen": "2026-08-05 10:21 MEST",
-    "removed": null
+    "removed": "2026-11-18 18:29 MEST"
   },
   "+ALESSANDRO GIANNELLI": {
     "first_seen": "2026-08-07 08:04 MEST",
@@ -979,6 +979,6 @@
     "first_seen": "2026-10-13 09:49 MEST",
     "removed": null
   },
-  "_active_count": 205,
-  "_last_run": "2026-11-18 09:23 MEST"
+  "_active_count": 204,
+  "_last_run": "2026-11-18 18:29 MEST"
 }
