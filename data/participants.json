@@ -269,7 +269,7 @@
   },
   "+Henning May": {
     "first_seen": "2026-06-29 14:08 MEST",
-    "removed": null
+    "removed": "2026-11-18 09:23 MEST"
   },
   "+Howard Bilerman": {
     "first_seen": "2026-06-29 14:08 MEST",
@@ -979,6 +979,6 @@
     "first_seen": "2026-10-13 09:49 MEST",
     "removed": null
   },
-  "_active_count": 206,
-  "_last_run": "2026-11-18 01:25 MEST"
+  "_active_count": 205,
+  "_last_run": "2026-11-18 09:23 MEST"
 }
